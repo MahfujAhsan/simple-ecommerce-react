@@ -1,0 +1,19 @@
+.header{
+    height: 80px;
+    background: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.header a{
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 34px;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 8px 25px 8px 25px;
+    border-radius: 10px;
+}
